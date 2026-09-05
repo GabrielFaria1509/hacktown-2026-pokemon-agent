@@ -1,0 +1,32 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "toolUse": {
+          "toolUseId": "tooluse_df1cdd07db684550831573ee",
+          "name": "buscar_pokemon",
+          "input": {
+            "nome": "pikachu"
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 1243,
+        "outputTokens": 20,
+        "totalTokens": 1263
+      },
+      "metrics": {
+        "latencyMs": 4252,
+        "timeToFirstByteMs": 179
+      }
+    },
+    "tracking_id": "9874ad35-be4c-4285-933d-6cb7e47f8604"
+  },
+  "message_id": 1,
+  "redact_message": null,
+  "created_at": "2026-09-05T15:05:33.992074+00:00",
+  "updated_at": "2026-09-05T15:05:33.992074+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "toolResult": {
+          "toolUseId": "tooluse_2ad60430b75a46da8c0c2750",
+          "status": "success",
+          "content": [
+            {
+              "text": "{\n  \"id\": 25,\n  \"nome\": \"Pikachu\",\n  \"tipos\": [\n    \"electric\"\n  ],\n  \"stats\": {\n    \"hp\": 35,\n    \"attack\": 55,\n    \"defense\": 40,\n    \"special-attack\": 50,\n    \"special-defense\": 50,\n    \"speed\": 90\n  },\n  \"stats_total\": 320,\n  \"habilidades\": [\n    \"Static\",\n    \"Lightning Rod\"\n  ],\n  \"movimentos\": [\n    \"Mega Punch\",\n    \"Pay Day\",\n    \"Thunder Punch\",\n    \"Slam\",\n    \"Double Kick\",\n    \"Mega Kick\",\n    \"Headbutt\",\n    \"Body Slam\"\n  ],\n  \"altura\": 0.4,\n  \"peso\": 6.0\n}"
+            }
+          ]
+        }
+      }
+    ],
+    "tracking_id": "bb4847e9-9405-458e-a0fb-25ce1f5d0a7b"
+  },
+  "message_id": 18,
+  "redact_message": null,
+  "created_at": "2026-09-05T15:37:23.367651+00:00",
+  "updated_at": "2026-09-05T15:37:23.367651+00:00"
+}

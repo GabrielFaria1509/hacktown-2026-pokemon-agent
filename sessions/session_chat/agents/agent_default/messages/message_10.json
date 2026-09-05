@@ -1,0 +1,23 @@
+{
+  "message": {
+    "role": "user",
+    "content": [
+      {
+        "toolResult": {
+          "toolUseId": "tooluse_efaf2f5b50db4887a87339df",
+          "status": "success",
+          "content": [
+            {
+              "text": "{\n  \"tipo\": \"electric\",\n  \"causa_dano_dobro_em\": [\n    \"flying\",\n    \"water\"\n  ],\n  \"recebe_dano_dobro_de\": [\n    \"ground\"\n  ],\n  \"causa_metade_dano_em\": [\n    \"grass\",\n    \"electric\",\n    \"dragon\"\n  ],\n  \"recebe_metade_dano_de\": [\n    \"flying\",\n    \"steel\",\n    \"electric\"\n  ],\n  \"nao_causa_dano_em\": [\n    \"ground\"\n  ],\n  \"imune_a\": []\n}"
+            }
+          ]
+        }
+      }
+    ],
+    "tracking_id": "e5038789-eb75-46c4-b9ca-24273d429013"
+  },
+  "message_id": 10,
+  "redact_message": null,
+  "created_at": "2026-09-05T15:36:35.372782+00:00",
+  "updated_at": "2026-09-05T15:36:35.372782+00:00"
+}

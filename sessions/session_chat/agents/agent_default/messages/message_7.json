@@ -1,0 +1,26 @@
+{
+  "message": {
+    "role": "assistant",
+    "content": [
+      {
+        "text": "O Pokémon mais famoso é o Pikachu. Ele é um Pokémon elétrico que é conhecido por sua capacidade de armazenar e liberar energia elétrica. Ele é uma das espécies de Pokémon mais populares e é amplamente utilizado em batalhas devido à sua alta velocidade e poder de ataque. O Pikachu é também conhecido por sua aparência característica, com sua pele amarela e sua cauda elétrica. Ele é um Pokémon muito querido entre os fãs de Pokémon e é frequentemente usado em jogos e animações."
+      }
+    ],
+    "metadata": {
+      "usage": {
+        "inputTokens": 1025,
+        "outputTokens": 125,
+        "totalTokens": 1150
+      },
+      "metrics": {
+        "latencyMs": 2242,
+        "timeToFirstByteMs": 178
+      }
+    },
+    "tracking_id": "2ad2c455-3de5-4aee-9223-0464c370cb49"
+  },
+  "message_id": 7,
+  "redact_message": null,
+  "created_at": "2026-09-05T15:36:18.551892+00:00",
+  "updated_at": "2026-09-05T15:36:18.551892+00:00"
+}
